@@ -1,0 +1,29 @@
+2023-10-17 17:58:04.627 [CORE] Valid settings file not found. Using default values.
+2023-10-17 17:58:04.628 [CORE] WinGet, version [1.6.2771], activity [{8A95E4D0-8F61-4E79-94C7-B1AD107F231E}]
+2023-10-17 17:58:04.628 [CORE] OS: Windows.Desktop v10.0.22621.2428
+2023-10-17 17:58:04.628 [CORE] Command line Args: "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.21.2771.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe" -Embedding
+2023-10-17 17:58:04.628 [CORE] Package: Microsoft.DesktopAppInstaller v1.21.2771.0
+2023-10-17 17:58:04.628 [CORE] IsCOMCall:1; Caller: C:\Windows\System32\taskhostw.exe
+2023-10-17 17:58:04.666 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2023-10-17 17:58:04.742 [REPO] Response status: 200
+2023-10-17 17:58:04.742 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2023-10-17 17:58:04.752 [REPO] Response status: 200
+2023-10-17 17:58:04.752 [REPO] Creating PredefinedInstalledSource with filter [None]
+2023-10-17 17:58:04.752 [REPO] Creating new SQLite Index with version [Latest] at ':memory:'
+2023-10-17 17:58:04.752 [SQL ] Opening SQLite connection #1: ':memory:' [6, 0]
+2023-10-17 17:58:04.834 [REPO] Reading MSI UpgradeCodes
+2023-10-17 17:58:04.838 [REPO] Examining ARP entries for Machine | X64
+2023-10-17 17:58:04.878 [REPO] Examining ARP entries for Machine | X86
+2023-10-17 17:58:04.934 [REPO] Reading MSI UpgradeCodes
+2023-10-17 17:58:04.937 [REPO] Examining ARP entries for User | X64
+2023-10-17 17:58:05.550 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='{1ceac85d-2590-4760-800f-8de5e91f3700}'[Exact] Include:NormalizedNameAndPublisher='intelmanagementenginecomponents'+'intel'[Exact]
+2023-10-17 17:58:05.558 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\advan\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db'
+2023-10-17 17:58:05.558 [SQL ] Opening SQLite connection #2: 'C:\Users\advan\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db' [2, 0]
+2023-10-17 17:58:05.559 [REPO] Opened SQLite Index with version [1.5], last write [2022-12-20 14:57:30.000]
+2023-10-17 17:58:05.639 [REPO] Sending http POST request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/manifestSearch
+2023-10-17 17:58:05.650 [REPO] Response status: 200
+2023-10-17 17:58:05.656 [REPO] Opening pinning index
+2023-10-17 17:58:05.657 [REPO] Opening existing pinning index
+2023-10-17 17:58:05.657 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\advan\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db'
+2023-10-17 17:58:05.657 [SQL ] Opening SQLite connection #3: 'C:\Users\advan\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db' [2, 0]
+2023-10-17 17:58:05.657 [REPO] Opened Pinning Index with version [1.0], last write [2023-07-19 23:18:34.000]

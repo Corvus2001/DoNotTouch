@@ -1,0 +1,15 @@
+2023/10/13-09:36:06.693 fbc Reusing MANIFEST C:\Users\advan\AppData\Roaming\Opera Software\Opera Stable\IndexedDB\https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/13-09:36:06.694 fbc Recovering log #4
+2023/10/13-09:36:06.694 fbc Reusing old log C:\Users\advan\AppData\Roaming\Opera Software\Opera Stable\IndexedDB\https_www.fandom.com_0.indexeddb.leveldb/000004.log 
+2023/10/13-09:40:03.088 ad4 Level-0 table #8: started
+2023/10/13-09:40:03.090 ad4 Level-0 table #8: 654 bytes OK
+2023/10/13-09:40:03.092 ad4 Delete type=0 #4
+2023/10/13-09:40:03.092 ad4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/13-09:40:03.093 ad4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x18\x006\x005\x002\x001\x003\x00_\x001\x009\x005\x009\x00_\x001\x006\x009\x007\x001\x008\x002\x005\x006\x004\x009\x000\x006' @ 333 : 1
+2023/10/13-09:40:03.093 ad4 Compacting 1@1 + 1@2 files
+2023/10/13-09:40:03.095 ad4 Generated table #9@1: 65 keys, 2009 bytes
+2023/10/13-09:40:03.095 ad4 Compacted 1@1 + 1@2 files => 2009 bytes
+2023/10/13-09:40:03.096 ad4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/13-09:40:03.097 ad4 Delete type=2 #5
+2023/10/13-09:40:03.097 ad4 Delete type=2 #8
+2023/10/13-09:40:03.098 ad4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x18\x006\x005\x002\x001\x003\x00_\x001\x009\x005\x009\x00_\x001\x006\x009\x007\x001\x008\x002\x005\x006\x004\x009\x000\x006' @ 333 : 1 .. (end); will stop at (end)

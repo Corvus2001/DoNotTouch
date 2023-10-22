@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="rules-persistent-state-converter" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea\vcs.xml" t="1697470673" />
+    <f p="./.idea\myapp.iml" t="1697470673" />
+    <f p="./.idea\workspace.xml" t="1697550134" />
+    <f p="./.idea\gradle.xml" t="1697550134" />
+    <f p="./.idea\modules.xml" t="1697470673" />
+    <f p="./.idea\misc.xml" t="1697470810" />
+    <f p="./.idea\jarRepositories.xml" t="1697470687" />
+  </project-files>
+</conversion>

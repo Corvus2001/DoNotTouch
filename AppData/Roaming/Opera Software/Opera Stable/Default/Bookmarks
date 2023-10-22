@@ -1,0 +1,1057 @@
+{
+   "checksum": "2a62b8b09c02452221e629db58a593ba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13312510250058769",
+               "date_last_used": "13328907615320584",
+               "guid": "39cf1006-4639-404f-b4d4-c390432d5823",
+               "id": "52",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/dac4e88c1d9790199249cb4c504ea2c5433751b42e1c8ee9ea81e6ed8deddac9.jpe",
+                  "imageDataType": "2",
+                  "imageID": "7BF53F520FD2D98A8CFB1C43A813EC2DEE226620377809793843171275ECBDFE",
+                  "imageIdentifier": "0c76ef6e",
+                  "imageType": "2"
+               },
+               "name": "Anmelden | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/join/login-popup/?next=/course/python-bootcamp/learn/lecture/8057006#questions/16963046"
+            }, {
+               "date_added": "13312510078957731",
+               "date_last_used": "13341753144194132",
+               "guid": "42539217-d605-4c74-96fe-b77c77f98626",
+               "id": "53",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/05e6ee6c7da8de4e13521605e8b5ad1d65f986157a3fb7bd12ac183a2dba1c66.jpe",
+                  "imageDataType": "2",
+                  "imageID": "DDED189E3BFFB85EE28B30FC8E19A7DA6BF8B1CB62CD0692C347CBDB0880E353",
+                  "imageIdentifier": "2cc47faa",
+                  "imageType": "2"
+               },
+               "name": "(57) HTW webmail :: Posteingang",
+               "type": "url",
+               "url": "https://webmail.htw-berlin.de/currentNG/?_task=mail&_mbox=INBOX"
+            }, {
+               "date_added": "13312510047164893",
+               "date_last_used": "13342103086869705",
+               "guid": "979d5e8b-832e-4ffd-9eb6-0d7b98d8a500",
+               "id": "54",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/a3ef117d8f9e44e870e10c1681e4d43e6ee5ab53a4187050bb100ed9ad4a6d8c.jpe",
+                  "imageDataType": "2",
+                  "imageID": "29F19CF094D1364B919FD7914929D7598436B9EF90FFE542967A7DED9BC308D8",
+                  "imageIdentifier": "600068d4",
+                  "imageType": "2"
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://moodle.htw-berlin.de/my/"
+            }, {
+               "date_added": "13309016181936952",
+               "date_last_used": "13342101535570569",
+               "guid": "a8c1ccb3-503a-440d-a8af-c8f18205a728",
+               "id": "55",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/4e8577f4d4ede123190bf9dd4bb47548938a74faab21015b32b44f7aee4a2b9e.jpe",
+                  "imageDataType": "2",
+                  "imageID": "8B26FF1EB9EDA2981E63660E06DD2EA7737527ACB417C0B176DC157AD800BFD9",
+                  "imageIdentifier": "7ce30bf7",
+                  "imageType": "2"
+               },
+               "name": "HTW Berlin",
+               "type": "url",
+               "url": "https://lsf.htw-berlin.de/qisserver/rds?state=user&type=0&topitem=&breadCrumbSource=&topitem=functions"
+            } ],
+            "date_added": "13312509950537050",
+            "date_last_used": "0",
+            "date_modified": "13312510250058769",
+            "guid": "4277adc4-1245-4b97-a216-671247e1a2cf",
+            "id": "51",
+            "name": "HTW",
+            "type": "folder"
+         }, {
+            "date_added": "13313015400639009",
+            "date_last_used": "13342103090048228",
+            "guid": "17c8ff1b-a2c6-4e35-89e4-5abe5a51db0e",
+            "id": "68",
+            "meta_info": {
+               "imageData": "https://sync-thumbnails.operacdn.com/8126e26f71d4a58b98b5e15d42ece8faf7c372e418f0cbe363e01b0d45767bd4.jpe",
+               "imageDataType": "2",
+               "imageID": "3C6EFCC6CD692832ABDF0A5E1268539BC69C816840FCDFB3820FAA668C95303B",
+               "imageIdentifier": "647420a5",
+               "imageType": "2"
+            },
+            "name": "Google Kalender - Woche vom 14. November 2022",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/1/r"
+         }, {
+            "children": [ {
+               "date_added": "13318783999766742",
+               "date_last_used": "13332339996523725",
+               "guid": "798c2d35-6902-4f06-bd71-17ef61aeb33a",
+               "id": "75",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/74a39596f140fe2713eaa194df6c7e3ba826cae4328c8ef4669d3886a29f2d41.jpe",
+                  "imageDataType": "2",
+                  "imageID": "0CB60905DE8171AD9EB2CD4392CB1C86A991951A25150B61E85D98C388FC1969",
+                  "imageIdentifier": "7415ef99",
+                  "imageType": "2"
+               },
+               "name": "CNET: Product reviews, advice, how-tos and the latest news",
+               "type": "url",
+               "url": "https://www.cnet.com/"
+            }, {
+               "date_added": "13318783963167689",
+               "date_last_used": "13332340059392869",
+               "guid": "f49e96e1-ff48-4f13-9ff8-3b880f68700e",
+               "id": "77",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/7d226aeaffcf9bfce639a736351da98fa43ba3c9f86a641fad40592e94507d6e.jpe",
+                  "imageDataType": "2",
+                  "imageID": "22CC269B6177759CB0CFFAEFE12CE9859121D30C5615E0B90E19A093B41A96B9",
+                  "imageIdentifier": "23524ae1",
+                  "imageType": "2"
+               },
+               "name": "TechCrunch • Startup and Technology News",
+               "type": "url",
+               "url": "https://techcrunch.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADumXlX-RXDQQ0Od3Ob8py61igT1x5StaNvO609ebJ249ysaUY6-7RrlN7uJqf1zYB-3fnKf62Mj_TB4OFecYYvmFzP3JKvSNPz5UULgqM0Yee8L3Z59n7xh79bDrscIR97LzH5RQlmpx9qETOB_u9ixzVS8ydIvb9VZbh6MsSYj"
+            }, {
+               "date_added": "13318784089698713",
+               "date_last_used": "0",
+               "guid": "16c44bf7-9bf5-4390-99d4-8659c6470ae6",
+               "id": "76",
+               "name": "Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            } ],
+            "date_added": "13318784140567062",
+            "date_last_used": "0",
+            "date_modified": "13318784140567062",
+            "guid": "4e3c0cda-e273-4480-99f9-d175bfd67cd7",
+            "id": "74",
+            "name": "Tec-News",
+            "type": "folder"
+         }, {
+            "date_added": "13300377172914567",
+            "date_last_used": "13341486885902346",
+            "guid": "dda8aa88-c9ed-422d-8c3e-b771b1a681bc",
+            "id": "56",
+            "meta_info": {
+               "imageData": "https://sync-thumbnails.operacdn.com/ef438d567e756ebf3005a168f11bb9acc39f49f31cfafa8d33415aa49b3e9de9.jpe",
+               "imageDataType": "2",
+               "imageID": "C35628C0D80B6FE7482DC0F64637C1B111060634F2A179E242F598220EBDAB69",
+               "imageIdentifier": "29f511a3",
+               "imageType": "2"
+            },
+            "name": "https://adac.theorie24.de/2022-03-v350/",
+            "type": "url",
+            "url": "https://adac.theorie24.de/2022-03-v350/"
+         }, {
+            "date_added": "13302141577076361",
+            "date_last_used": "13318272977893100",
+            "guid": "6d6f4138-8fbe-457b-97d4-a1b7d94949c1",
+            "id": "62",
+            "name": "MIT OpenCourseWare | Free Online Course Materials",
+            "type": "url",
+            "url": "https://ocw.mit.edu/"
+         }, {
+            "children": [ {
+               "date_added": "13312372568841331",
+               "date_last_used": "0",
+               "guid": "61c99c1f-496f-4786-a758-a9e241f91457",
+               "id": "27",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/debb1eebb8e475c8e7987a051c7891750b5f203213a986b6e23c8d16ed369aa8.jpe",
+                  "imageDataType": "2",
+                  "imageID": "598675896BF9CC1FD9345DC39697FEA3A8C279DDFC56DB8C1C3C6309C4C26B37",
+                  "imageIdentifier": "6c94c36f",
+                  "imageType": "2"
+               },
+               "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+               "type": "url",
+               "url": "https://stackoverflow.com/"
+            }, {
+               "date_added": "13309099469311137",
+               "date_last_used": "0",
+               "guid": "539989b7-51a0-4e63-9c60-02cf49f589bf",
+               "id": "65",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/ccd52083b6546cd7662ac630a6d30afc8ab52a090ba0d534db6c7531723865b0.jpe",
+                  "imageDataType": "2",
+                  "imageID": "4A98B689E62BC6C819EAFFA0480036CFD0571E4021F8FCA510C7B1AEF0311495",
+                  "imageIdentifier": "5550468e",
+                  "imageType": "2"
+               },
+               "name": "ZType – Typing Game - Type to Shoot",
+               "type": "url",
+               "url": "https://zty.pe/"
+            }, {
+               "date_added": "13301702111255235",
+               "date_last_used": "13317493677642671",
+               "guid": "3313d924-76f2-4fb7-ba8a-9c2e9ccf04fa",
+               "id": "59",
+               "meta_info": {
+                  "imageData": "https://sync-thumbnails.operacdn.com/38ec7fde4e5378b4902c6ec088fefba23dc131b09745836137fe4d4d6bfc2316.jpe",
+                  "imageDataType": "2",
+                  "imageID": "94D9F72EDE5CCA28F9314908558C58EBF591AE9A5AD90A88615A23B2D905C7B3",
+                  "imageIdentifier": "40fd7442",
+                  "imageType": "2"
+               },
+               "name": "Coding Games and Programming Challenges to Code Better",
+               "type": "url",
+               "url": "https://www.codingame.com/ide/puzzle/onboarding"
+            } ],
+            "date_added": "13318782576784158",
+            "date_last_used": "0",
+            "date_modified": "13319055468752907",
+            "guid": "7ed1ffe0-8eb7-4d44-b8fc-b3e163d3aa42",
+            "id": "73",
+            "name": "Coding",
+            "type": "folder"
+         }, {
+            "date_added": "13302203829755700",
+            "date_last_used": "13312509657220517",
+            "guid": "5a1929a4-d740-484d-9093-6073c107b546",
+            "id": "63",
+            "meta_info": {
+               "imageData": "https://sync-thumbnails.operacdn.com/e9ae6d5b53e3ee28f7fcf953fafa46598c032935f5ba6dc4ba65719b82c60b5f.jpe",
+               "imageDataType": "2",
+               "imageID": "0C34C5F89FE04EE6956546BB8174E6D5A589FCC7B7B259B4E559E9F7F3BC5E0E",
+               "imageIdentifier": "2a1b7734",
+               "imageType": "2"
+            },
+            "name": "Matthäus 1 - Lutherbibel 2017 (LU17) - die-bibel.de",
+            "type": "url",
+            "url": "https://www.die-bibel.de/bibeln/online-bibeln/lesen/LU17/MAT.1/Matth%C3%A4us-1"
+         }, {
+            "date_added": "13312402515374124",
+            "date_last_used": "13312481878276238",
+            "guid": "beddec54-d3dc-4343-9f50-c671e108c5e8",
+            "id": "28",
+            "meta_info": {
+               "imageData": "https://sync-thumbnails.operacdn.com/690e435165fa092ee68198cd0569f0e9c479bb17d110bd10f1058046def323fa.jpe",
+               "imageDataType": "2",
+               "imageID": "82EFC333C4E6FD414CBB3F064BAE28B3B044CAC324E549C604D417490C7E510D",
+               "imageIdentifier": "5a968451",
+               "imageType": "2"
+            },
+            "name": "Schach online gegen den Computer spielen - Chess.com",
+            "type": "url",
+            "url": "https://www.chess.com/de/play/computer"
+         }, {
+            "date_added": "13341408439617707",
+            "date_last_used": "13342039854559020",
+            "guid": "ed4de6ed-ed1f-4e8d-a892-17fed07bb5fb",
+            "id": "95",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13341408668653011",
+            "date_last_used": "13342002716594101",
+            "guid": "48284225-4f12-4ba7-9ca4-cb02ec396905",
+            "id": "96",
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T01CF8YR725/C04UFR2VB9R/thread/C04UFR2VB9R-1688631158.524669"
+         } ],
+         "date_added": "13311268001077568",
+         "date_last_used": "0",
+         "date_modified": "13341408668653011",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "custom_root": {
+         "pinboard": {
+            "children": [ {
+               "date_added": "13312509908293421",
+               "date_last_used": "0",
+               "guid": "aa385580-b97b-41f7-8d91-8e0d364fd614",
+               "id": "50",
+               "meta_info": {
+                  "userId": "44574931-4f57-42f4-b68b-eb2c76f46fa2",
+                  "userToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2IjoxLCJpZCI6IjQ0NTc0OTMxLTRmNTctNDJmNC1iNjhiLWViMmM3NmY0NmZhMiJ9.iPTjxrliJQXa0MMMxFC-Tu9wBtUsESzp4KuEfi8_C7U"
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://pinboard.opera.com/"
+            }, {
+               "date_added": "13317397544587328",
+               "date_last_used": "0",
+               "guid": "2201c5ac-7147-45ab-979e-3342bb0a0c69",
+               "id": "71",
+               "meta_info": {
+                  "uat": "2023-01-05T13:05:45.712Z"
+               },
+               "name": "Pinboard 1",
+               "type": "url",
+               "url": "https://pinboard.opera.com/edit/2e8d1634-dd9f-4a5a-806c-086d4038599c/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2IjoxLCJpZCI6IjJlOGQxNjM0LWRkOWYtNGE1YS04MDZjLTA4NmQ0MDM4NTk5YyJ9.wltpJX8QGQdTvxwS3D4Y4ZaExVAs4yQAna689CJN62A"
+            } ],
+            "date_added": "13311268001077690",
+            "date_last_used": "0",
+            "date_modified": "13317397544587328",
+            "guid": "00000000-0000-4000-a000-000000000907",
+            "id": "7",
+            "name": "Pinboard",
+            "type": "folder"
+         },
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13300213918512315",
+                  "date_last_used": "0",
+                  "guid": "efbfd6e9-6069-479c-a04e-dd83794c5625",
+                  "id": "30",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/eb0afd3d47edb6bf6a0594a2b28660632349b341.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/d19cd56c55b6a78a0b1edd42ca4db478ab9da28f.png",
+                     "imageDataType": "2",
+                     "imageID": "EF2C9F7CEE1885578697DE640325E16BFDA0A35D79805CFCC1ED5DFA88C8813E",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "amazon_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/d19cd56c55b6a78a0b1edd42ca4db478ab9da28f.png",
+                     "partner_url": "https://www.amazon.de/?tag=operadesktop14-sd-de-21",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_de",
+                     "replaceability": "0",
+                     "revision": "20221118",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "http://www.amazon.de/"
+               }, {
+                  "date_added": "13300213918513684",
+                  "date_last_used": "0",
+                  "guid": "493e0912-1b62-4c0c-8418-2e95f239e244",
+                  "id": "31",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/2b198c8e1cd302ee83848a9040a09f6cff35021d.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/ac1398054b3a367867e5392916ef093d4a00b4d8.png",
+                     "imageDataType": "2",
+                     "imageID": "8D189144CC2FC6A7BB38CE00DAF9D95D4CA90E9255EA7E4805DA8C56049B5B4B",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "otto_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/ac1398054b3a367867e5392916ef093d4a00b4d8.png",
+                     "partner_url": "https://partnerprogramm.otto.de/trck/eclick/e3fcac97133c1a17798ec166330a7c9a",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/otto_de",
+                     "replaceability": "0",
+                     "revision": "20221124",
+                     "server_position": "2"
+                  },
+                  "name": "OTTO",
+                  "type": "url",
+                  "url": "http://www.otto.de/"
+               }, {
+                  "date_added": "13300213918514382",
+                  "date_last_used": "0",
+                  "guid": "f61b0809-b15c-4c2f-94a6-fcc86fe0aac5",
+                  "id": "32",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/ce9bb3a368a10c2c20ce284ca4e0edd825752ade.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "imageDataType": "2",
+                     "imageID": "BEAB0D49D4283EE9B4FA2EAC1CADED8E20346FA7A3994A4E9C961AFD8186CC90",
+                     "imageType": "2",
+                     "nav_timestamp": "1671037602860",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "ebay_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3e0b5da0e976232819b743067e60d978f5830c88.png",
+                     "partner_url": "https://www.ebay.de/?mkcid=1&mkrid=707-53477-19255-0&siteid=77&campid=5337314422&customid=&toolid=10001&mkevt=1",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_de",
+                     "replaceability": "0",
+                     "revision": "20221124",
+                     "server_position": "3"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.de/"
+               }, {
+                  "date_added": "13300213918517247",
+                  "date_last_used": "0",
+                  "guid": "3f633221-e3ef-4035-97db-4d3a43ef80fb",
+                  "id": "33",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e1db847af0a87787f307ee6942ed7d643488d419.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/ae3d9d93a84e4a4167ab14e12d4a4c62a4df1746.png",
+                     "imageDataType": "2",
+                     "imageID": "3851FAC35BC8523EB2479A6E43174B24818F148F4F2D237BB102B844841E56E3",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "booking_com_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/ae3d9d93a84e4a4167ab14e12d4a4c62a4df1746.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343338&label=operasoft-sdO15-343338&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_de",
+                     "replaceability": "0",
+                     "revision": "20210709",
+                     "server_position": "4"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13305325118380421",
+                  "date_last_used": "0",
+                  "guid": "48bc580e-bd6b-4537-bf6c-878337161aa9",
+                  "id": "34",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/51dce3eb215141060989a671a0778890a04b8aa1.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7c270883204de7e590bf18423b469feb14b44636.png",
+                     "imageDataType": "2",
+                     "imageID": "1503736AAB571CD16EA378B6674FD693062D619E35C620D8CC0D6FE9F45815BE",
+                     "imageType": "2",
+                     "nav_timestamp": "1.658864319155719e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "bonprix_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7c270883204de7e590bf18423b469feb14b44636.png",
+                     "partner_url": "https://clk.tradedoubler.com/click?p=305884&a=2016302",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/bonprix_de",
+                     "replaceability": "0",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Bonprix",
+                  "type": "url",
+                  "url": "https://www.bonprix.de/"
+               }, {
+                  "date_added": "13305468250506020",
+                  "date_last_used": "0",
+                  "guid": "320f0014-21ff-4ca6-9283-83a1488e9dd6",
+                  "id": "35",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/ef012278790f280fd8dcde4e3fe2a8d75f9003b0483ddc72a09704adf9d16065.jpe",
+                     "imageDataType": "2",
+                     "imageID": "1CBD91F3F713B96B143D099FC0B99D2FE8F5ADCAF93F4ED2935D93424F8DBB92",
+                     "imageType": "2"
+                  },
+                  "name": "vodafone.de",
+                  "type": "url",
+                  "url": "https://www.vodafone.de/"
+               }, {
+                  "date_added": "13301534737286087",
+                  "date_last_used": "0",
+                  "guid": "f3e67538-367a-4447-9690-8203975b0b5b",
+                  "id": "36",
+                  "name": "mmoga.de",
+                  "type": "url",
+                  "url": "https://www.mmoga.de/"
+               }, {
+                  "date_added": "13300213918521158",
+                  "date_last_used": "0",
+                  "guid": "0fb60357-f346-4d05-b57b-beee7f4a31af",
+                  "id": "37",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e805c2b2ec7ea3a8f9e75e067ee75e6ab7b18c6a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3f361524cd01ab46ced4da09f2207f5c88b010ca.png",
+                     "imageDataType": "2",
+                     "imageID": "66555BB1B5E6E13699DDAD383916CEB38621CB6266DE52CF2876F7ADAF46ECC6",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "mktfinanzen_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3f361524cd01ab46ced4da09f2207f5c88b010ca.png",
+                     "partner_url": "https://deals.opera.com/de/?utm_source=sd&utm_medium=desktop&utm_campaign=v2",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/mktfinanzen_de",
+                     "replaceability": "0",
+                     "revision": "20201116",
+                     "server_position": "7"
+                  },
+                  "name": "Finanzen Vergleichsportal",
+                  "type": "url",
+                  "url": "https://deals.opera.com/de"
+               }, {
+                  "date_added": "13300213918522905",
+                  "date_last_used": "0",
+                  "guid": "f3c7845c-3eca-46ca-b1ae-0d6d8f1ccf22",
+                  "id": "38",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/336f945906478bb7548a0f88644bf8a2f24c1e9a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "forgeofempires_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/de/?ref=operafix_de_de",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempires_de",
+                     "replaceability": "0",
+                     "revision": "20190701",
+                     "server_position": "10"
+                  },
+                  "name": "Forgeofempires.com",
+                  "type": "url",
+                  "url": "https://om.forgeofempires.com/"
+               }, {
+                  "date_added": "13300213918524125",
+                  "date_last_used": "0",
+                  "guid": "34b106cf-0ac5-47d9-9d74-49e5a141fff0",
+                  "id": "39",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/2a0307cf6e6cc77a8620d1594803243636b8e180.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bcc09f5404e943242bf13981949a4fdb0cb514cc.png",
+                     "imageDataType": "2",
+                     "imageID": "11C4FC3136070EA90BB8ABF50C15A4729DCA953D716AF08C8314F4DCD09C30FF",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "tchibo_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bcc09f5404e943242bf13981949a4fdb0cb514cc.png",
+                     "partner_url": "https://ww55.affinity.net/sssdomweb?enk=d58b3b9e5115625224d9a5c5347c8fc6e3b71864507b41d07c887129d9261a8a3f889dd4d208b1c60c8b6a6f8966dca776ca6e70a64c858580356a4ac02f4175a6e89f868fe8e93c",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/tchibo_de",
+                     "replaceability": "0",
+                     "revision": "20200914",
+                     "server_position": "12"
+                  },
+                  "name": "Tchibo",
+                  "type": "url",
+                  "url": "https://www.tchibo.de/"
+               }, {
+                  "date_added": "13300916477633437",
+                  "date_last_used": "0",
+                  "guid": "558dc539-9b03-4b6f-a43d-0ab519276bd9",
+                  "id": "40",
+                  "name": "steuertipps.de",
+                  "type": "url",
+                  "url": "https://www.steuertipps.de/"
+               }, {
+                  "date_added": "13300213918527196",
+                  "date_last_used": "0",
+                  "guid": "dc7548d9-da8c-435a-b8a2-deb4ad2ace31",
+                  "id": "41",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/8b8c6b974eba4571acec86d747c00b1c45e50d22.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/24f18a7c8215fb2d9708b4d5a7618fc77b1ca54a.png",
+                     "imageDataType": "2",
+                     "imageID": "3C1A7001D4D79352E4A5BAF605DAA696313DFD7625D3C87F6C44844076B4A30F",
+                     "imageType": "2",
+                     "nav_timestamp": "1.65376447781343e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "raidshadow_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/24f18a7c8215fb2d9708b4d5a7618fc77b1ca54a.png",
+                     "partner_url": "https://plarium.com/landings/de/desktop/raid/rdo/media/replica_thr_exit05?plid=694996&pxl=operacpi_&clickId={}&placement={sd_de}&publisherId={sd}",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/raidshadow_de",
+                     "replaceability": "0",
+                     "revision": "20220630",
+                     "server_position": "14"
+                  },
+                  "name": "Raid Shadow Legends",
+                  "type": "url",
+                  "url": "https://plarium.com/"
+               }, {
+                  "date_added": "13300887287377707",
+                  "date_last_used": "0",
+                  "guid": "3c2d7784-a0c0-49f1-9443-b948d459577f",
+                  "id": "42",
+                  "name": "stellenanzeigen.de",
+                  "type": "url",
+                  "url": "https://www.stellenanzeigen.de/"
+               }, {
+                  "date_added": "13304717165713733",
+                  "date_last_used": "0",
+                  "guid": "342abe44-c5e8-407c-8d12-2822dd55b47f",
+                  "id": "44",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/930dcc83ead8d735225770745adc726e8859a67a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/c511dca8786e23a0db45536b82a63b087eef357a.png",
+                     "imageDataType": "2",
+                     "imageID": "5BE1936E129AAFAF94022604A59B6E391A381E3545494434343064C6A039119B",
+                     "imageType": "2",
+                     "nav_timestamp": "1.658256368747802e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "gxgames_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/c511dca8786e23a0db45536b82a63b087eef357a.png",
+                     "partner_url": "https://gx.games/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/gxgames_de",
+                     "replaceability": "0",
+                     "revision": "20220805",
+                     "server_position": "15"
+                  },
+                  "name": "GX.games",
+                  "type": "url",
+                  "url": "https://gx.games/"
+               }, {
+                  "date_added": "13304715257986074",
+                  "date_last_used": "0",
+                  "guid": "d7c7a585-e261-465b-be25-87a5c90724a5",
+                  "id": "45",
+                  "name": "flugladen.de",
+                  "type": "url",
+                  "url": "https://www.flugladen.de/"
+               }, {
+                  "date_added": "13301944594308381",
+                  "date_last_used": "0",
+                  "guid": "d638eb3d-e1c0-4530-a326-27ac3452c73f",
+                  "id": "46",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/19f198793098c731fd513850922f16d24e61c6cbe79e23223ec2def2264cc891.jpe",
+                     "imageDataType": "2",
+                     "imageID": "E6C67C28352A2C511739790DB13E005FA0AB016092545B519413C10E346E0DF5",
+                     "imageType": "2"
+                  },
+                  "name": "microsoft.com",
+                  "type": "url",
+                  "url": "https://www.microsoft.com/"
+               }, {
+                  "date_added": "13302381641459688",
+                  "date_last_used": "0",
+                  "guid": "ad70fa49-2cec-4655-b0d5-73506f4420e2",
+                  "id": "47",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/2b2cd51772cb8cea7f481bfc4ce45734ecb46a409108834bbbb7ed3ca0961a9b.jpe",
+                     "imageDataType": "2",
+                     "imageID": "966237880BFCDE12B968425C5591E1BB152037B1C0155292B02FE6DA0E9A0D36",
+                     "imageType": "2"
+                  },
+                  "name": "telekom.com",
+                  "type": "url",
+                  "url": "https://www.telekom.com/"
+               }, {
+                  "date_added": "13304109373505147",
+                  "date_last_used": "0",
+                  "guid": "0bdf3116-869f-42d3-86df-4a07c692ed51",
+                  "id": "48",
+                  "name": "emirates.com",
+                  "type": "url",
+                  "url": "https://www.emirates.com/"
+               }, {
+                  "date_added": "13304715256881552",
+                  "date_last_used": "0",
+                  "guid": "02d5f77a-8243-4e77-8a94-61a770ca1431",
+                  "id": "49",
+                  "name": "DeepL Translate – Der präziseste Übersetzer der Welt",
+                  "type": "url",
+                  "url": "https://www.deepl.com/translator"
+               } ],
+               "date_added": "13300213918399354",
+               "date_last_used": "0",
+               "date_modified": "13314151907502821",
+               "guid": "e765df49-b093-4bce-a337-fe8cbe86b425",
+               "id": "29",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "eb6a66f0-03b2-4215-ae2f-753c2805afbb"
+               },
+               "name": "DESKTOP-9USJCIU",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13337817056974103",
+                  "date_last_used": "0",
+                  "guid": "6d40f46e-5323-4a94-acda-743637131490",
+                  "id": "82",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/eb0afd3d47edb6bf6a0594a2b28660632349b341.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/d7cb792b099119fe0196e31b8eb8617de8c8f201.png",
+                     "imageDataType": "2",
+                     "imageID": "EE69931080479B52C327B7D24113F1C51D03D9AFFC4EA1ABF175885A3D6AC7BF",
+                     "imageType": "2",
+                     "impression_url": "https://speeddials.opera.com/impressions/eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIifQ.Bt1GgIoRm8iPQc4QI2cNhHnxAhA3QyzoSqcKdlJpiF_Kg8enYD-hK-fn4mC-SbKMDILr48l88m0rdhTvbtBkWRmiMbAMWYUr6LLF_CM3XneQxk85B2UYhovgP8s_IZY3QMBXTPd8Klgd_u0BSjFj4V_j7VtMSETsg5Xv2qkMCQGOlO3AAhNhFVy-mcM5YCAYDVLXu38KnMPELguAwS0cu1z67g5FBLEF746zAUzYh0OqgEHRermFwudnHQMtAF0KaiMm1SKk-I3b28SlEp87yJA5ORveylamkGhP6dZpSPGUT4I1ocJg7iCeGxa1hlWMyb7k1GewydZYqyXQqnInlQ.p87dG4z9DKnizwi8Szbcbg.cqC1BMSoAxiv-xv0dupzVeuMlv1Q7FtN_Fr9cNvdOjtU09mlXJODzcpGiqjmAZ7bXgIQHWJJqn-iRsrLpbc5bkvovkDtuoFngRy1GIpIs61gOXGlkA64yvI0MBXAfoNI8COjbLCz4O8Cvn_nbUTeyKh-FNr7Rb4SPwd3SN9JPjSvuI0m8tvzHUXXh_pLM0_6DA79ETFolZkzVM_tbqY2_gP6Qf_4Zg4jQZeumms1eZZt7TZFcwjk3EpZHEVtCinx7utW3qXN_7FiE9HkqOVQGOv9_WKIzv_2aBmcWRNniwsDbmjxu-tugZA7lCY_rMm63ewPR-bTLlw8iubJY1T5MQ_fG3lcfebS59Y23zgvzpJl_kla9UolFq-7xNsdJk8qAEQX3rRVQx41esE8V-Q76MP1AopWLrrWzAs04bpbEt6654r3iXFQidjjaJwQ4VE2qJvG2f5uPxK2rylGaA0o47yXJCUa8B6zzcUt2MQaWvl32uYAx3PmTEls2zxWJ1hH.KqNBLJvvljdIymOIyYyxTkC5GBgdDpIT-kXGC65HtCE",
+                     "nav_timestamp": "1.691356256995715e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "admarket_amazon_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/d7cb792b099119fe0196e31b8eb8617de8c8f201.png",
+                     "partner_url": "https://operadesktoptiles.ampxdirect.com/?partner=operadesktoptiles&sub1=10188&sub2=operabrowser&ctaid=74357&match-methods=deterministic&v=1.3&source=als_tiles",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/admarket_amazon_de",
+                     "replaceability": "0",
+                     "revision": "20230828",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "https://www.amazon.de/"
+               }, {
+                  "date_added": "13311268001752546",
+                  "date_last_used": "0",
+                  "guid": "bb00e070-778d-4ef7-8970-7606516c0eb5",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e1db847af0a87787f307ee6942ed7d643488d419.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3a07ed8977c2b792f3940924aaac029238f92e71.png",
+                     "imageDataType": "2",
+                     "imageID": "E647B15ABE8EB7A0669584D81C1D72BAA1F862B57E589D11F4E2E7AB6D065009",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.664832829341832e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "booking_com_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3a07ed8977c2b792f3940924aaac029238f92e71.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343338&label=operasoft-sdO15-343338&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_de",
+                     "replaceability": "0",
+                     "revision": "20230704",
+                     "server_position": "4"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13311268001759067",
+                  "date_last_used": "0",
+                  "guid": "072abc61-e333-4191-93db-4636bb45cc8d",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/51dce3eb215141060989a671a0778890a04b8aa1.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/4b07baf0388b369b1f0c777bdf5a0b72f93a8f15.png",
+                     "imageDataType": "2",
+                     "imageID": "48B1E7E019EFF4084174F9921B3850E3F50B49D51B37E91EBFD6AD7DCA6EB209",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1696866459060",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "bonprix_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/4b07baf0388b369b1f0c777bdf5a0b72f93a8f15.png",
+                     "partner_url": "https://clk.tradedoubler.com/click?p=305884&a=2016302&epi=operapc-sd-de",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/bonprix_de",
+                     "replaceability": "0",
+                     "revision": "20231003",
+                     "server_position": "5"
+                  },
+                  "name": "Bonprix",
+                  "type": "url",
+                  "url": "https://www.bonprix.de/"
+               }, {
+                  "date_added": "13311268001761263",
+                  "date_last_used": "0",
+                  "guid": "814d60d2-87e4-47ea-a0e5-18b7703db051",
+                  "id": "16",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e805c2b2ec7ea3a8f9e75e067ee75e6ab7b18c6a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3f361524cd01ab46ced4da09f2207f5c88b010ca.png",
+                     "imageDataType": "2",
+                     "imageID": "66555BB1B5E6E13699DDAD383916CEB38621CB6266DE52CF2876F7ADAF46ECC6",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1685947466164",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "mktfinanzen_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3f361524cd01ab46ced4da09f2207f5c88b010ca.png",
+                     "partner_url": "https://deals.opera.com/de/?utm_source=sd&utm_medium=desktop&utm_campaign=v2",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/mktfinanzen_de",
+                     "replaceability": "0",
+                     "revision": "20201116",
+                     "server_position": "7"
+                  },
+                  "name": "Finanzen Vergleichsportal",
+                  "type": "url",
+                  "url": "https://deals.opera.com/de"
+               }, {
+                  "date_added": "13311268001764887",
+                  "date_last_used": "0",
+                  "guid": "96adf787-0878-4f91-99ef-4c0855c8f68e",
+                  "id": "17",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/336f945906478bb7548a0f88644bf8a2f24c1e9a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1673644142389",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "forgeofempires_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/de/?ref=operafix_de_de",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempires_de",
+                     "replaceability": "0",
+                     "revision": "20190701",
+                     "server_position": "10"
+                  },
+                  "name": "Forgeofempires.com",
+                  "type": "url",
+                  "url": "https://om.forgeofempires.com/"
+               }, {
+                  "date_added": "13311268001771498",
+                  "date_last_used": "0",
+                  "guid": "dc134d2b-fd29-4bfe-ab3a-ed80fcd0e248",
+                  "id": "20",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e68d6aed5a71c8bf08435cccec050aba8ceec72f.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/a17380dbb9b066104ce4eb1d65b601f100025a12.png",
+                     "imageDataType": "2",
+                     "imageID": "E75DF7AEB4F2C384AF75C866D4B04DEFA1D981DD243229E00E8949609FEA54A9",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.664832829341832e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "chess_de",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a17380dbb9b066104ce4eb1d65b601f100025a12.png",
+                     "partner_url": "https://redirector.opera.com/redirect?type=syn&rid=719",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/chess_de",
+                     "replaceability": "0",
+                     "revision": "20230630",
+                     "server_position": "14"
+                  },
+                  "name": "Chess.com",
+                  "type": "url",
+                  "url": "https://www.chess.com/"
+               }, {
+                  "date_added": "13317397503341741",
+                  "date_last_used": "0",
+                  "guid": "20dafb9c-e308-4cfa-979e-cb308a2be853",
+                  "id": "70",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/94f8df88a5e529b10b8e68e2f395bb1f7bf2caa97904c530853b6a0fcb98e651.jpe",
+                     "imageDataType": "2",
+                     "imageID": "B5C078FAF7EAC3D397834392687BE02C3E2E08EC85B2A03254253C68B9429421",
+                     "imageIdentifier": "66ede9db",
+                     "imageType": "2"
+                  },
+                  "name": "New chat",
+                  "type": "url",
+                  "url": "https://chat.openai.com/chat"
+               }, {
+                  "date_added": "13331076389285957",
+                  "date_last_used": "0",
+                  "guid": "aa5e386d-74e6-4a68-aba2-a15c0aaaf5dc",
+                  "id": "79",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/a0d70bd685d922dff6409f82b5b1ba3ec0c5e227c0d5a2a227c4b552b67f24f1.jpe",
+                     "imageDataType": "2",
+                     "imageID": "AA6C42B0FDF75F4C87AB6A1B23D8928D4CBFD2B3E5A09F35B1C02439AC4548F8",
+                     "imageIdentifier": "06df7615",
+                     "imageType": "2"
+                  },
+                  "name": "Compendium of the Social Doctrine of the Church",
+                  "type": "url",
+                  "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html"
+               }, {
+                  "date_added": "13331076423838174",
+                  "date_last_used": "0",
+                  "guid": "35326e30-7a95-4ec9-973d-0f5188125a87",
+                  "id": "80",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/ff2d0edbefaf9b521bd12c5cfd9d149cc796d636f7a0d1c45ab6237392916b16.jpe",
+                     "imageDataType": "2",
+                     "imageID": "27C06B0567FCBA41EA8CA9E65CE657D50DA4D2A44D319FE8633C1439AB4C3BD1",
+                     "imageIdentifier": "6c30ea74",
+                     "imageType": "2"
+                  },
+                  "name": "Seven Themes of Catholic Social Teaching | USCCB",
+                  "type": "url",
+                  "url": "https://www.usccb.org/beliefs-and-teachings/what-we-believe/catholic-social-teaching/seven-themes-of-catholic-social-teaching"
+               }, {
+                  "date_added": "13333921707068546",
+                  "date_last_used": "0",
+                  "guid": "ffc71ae0-0f12-42a6-8a00-57ddf34c00c5",
+                  "id": "81",
+                  "meta_info": {
+                     "imageData": "https://sync-thumbnails.operacdn.com/86cff3763cc64a7cc9a944ad75124d5197e9ed088852371aafc4cbd7669279f8.jpe",
+                     "imageDataType": "2",
+                     "imageID": "880C960673CA592AC76BA9040452375B95545D6F39F83234EAF654BA44F57C65",
+                     "imageIdentifier": "31626a5b",
+                     "imageType": "2"
+                  },
+                  "name": "Episode 1 Staffel 1 von Attack on Titan | AniWorld.to - Animes gratis legal online ansehen",
+                  "type": "url",
+                  "url": "https://aniworld.to/anime/stream/attack-on-titan/staffel-1/episode-1"
+               }, {
+                  "date_added": "13341310848824054",
+                  "date_last_used": "0",
+                  "guid": "246f99bc-06e9-4ace-a6ff-2ec381e1bd75",
+                  "id": "84",
+                  "name": "Jitsi Meet",
+                  "type": "url",
+                  "url": "https://meet.jit.si/"
+               }, {
+                  "children": [ {
+                     "date_added": "13341310995802859",
+                     "date_last_used": "0",
+                     "guid": "eec3d08c-e680-4c91-84d2-6b6239132d51",
+                     "id": "86",
+                     "name": "Akademischer Kalender",
+                     "type": "url",
+                     "url": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/"
+                  }, {
+                     "date_added": "13341310995807366",
+                     "date_last_used": "0",
+                     "guid": "67c8e5a1-7b96-4316-b12a-5ae404777944",
+                     "id": "87",
+                     "name": "WEB.DE - E-Mail-Adresse kostenlos, FreeMail, De-Mail & Nachrichten",
+                     "type": "url",
+                     "url": "https://web.de/logoutlounge/?p=TG9nb3V0QWRQcm94eS5zZXJ2aWNlPXNraW5uYWJsZWxvZ291dCZzaXRlPXdlYmRlJnNlY3Rpb249Z20xL21haWwvbG9nb3V0L2FkX2R5bmFtaXNjaCZhZ29maWQ9OTdfTCZzcGVjaWFsPSZ1c2VybGV2ZWw9Zm0mcmVnaW9uPWRlJnBnPW0mcGE9MjMmcHA9REVfMTQxNjcmaGlkPTM2ODE5MWM5N2U1ZWUyYmIwM2E3YmI4NGNmZDU4Yjli&status=session"
+                  }, {
+                     "date_added": "13341310995810862",
+                     "date_last_used": "0",
+                     "guid": "032e2554-d828-4830-8280-dfb95cf1e6f3",
+                     "id": "88",
+                     "name": "Google Kalender - Oktober 2023",
+                     "type": "url",
+                     "url": "https://calendar.google.com/calendar/u/0/r"
+                  }, {
+                     "date_added": "13341310995814445",
+                     "date_last_used": "0",
+                     "guid": "fa043f64-5cf1-41c7-8c44-c54f3d6305eb",
+                     "id": "89",
+                     "name": "Google Kalender - Oktober 2023",
+                     "type": "url",
+                     "url": "https://calendar.google.com/calendar/u/0/r/month/2023/10/1?hl=de&authuser=1"
+                  }, {
+                     "date_added": "13341310995817680",
+                     "date_last_used": "0",
+                     "guid": "5978f0b3-c850-4b5f-a536-2cb8ed9cdd67",
+                     "id": "90",
+                     "name": "Google Kalender - Woche vom 9. Oktober 2023",
+                     "type": "url",
+                     "url": "https://calendar.google.com/calendar/u/1/r/week?hl=de&pli=1"
+                  }, {
+                     "date_added": "13341310995820258",
+                     "date_last_used": "0",
+                     "guid": "dcd93c2f-4b18-44e2-a905-4cfa384035ef",
+                     "id": "91",
+                     "name": "Dashboard",
+                     "type": "url",
+                     "url": "https://moodle.htw-berlin.de/my/"
+                  }, {
+                     "date_added": "13341310995822899",
+                     "date_last_used": "0",
+                     "guid": "812080e3-b0a4-4930-a795-c93f66f69b99",
+                     "id": "92",
+                     "name": "- HTW Berlin",
+                     "type": "url",
+                     "url": "https://lsf.htw-berlin.de/qisserver/rds?state=wscheck&wscheck=leistungen&navigationPosition=functions%2CmyLecturesWScheck&breadcrumb=LoginInfo_Leistungen&topitem=functions&subitem=myLecturesWScheck&asi=KE3gqbfhXNVfRXbj6J7b"
+                  }, {
+                     "date_added": "13341310995825336",
+                     "date_last_used": "0",
+                     "guid": "bb7d88a7-76e7-4222-9204-1fcedc193c33",
+                     "id": "93",
+                     "name": "Jitsi Meet",
+                     "type": "url",
+                     "url": "https://meet.jit.si/"
+                  } ],
+                  "date_added": "13341310995797961",
+                  "date_last_used": "0",
+                  "date_modified": "13341310995825336",
+                  "guid": "643f0d9a-b1ee-45df-b5fc-6c069c062e09",
+                  "id": "85",
+                  "name": "Ordner",
+                  "type": "folder"
+               }, {
+                  "date_added": "13341932248784677",
+                  "date_last_used": "0",
+                  "guid": "20b597ed-ff90-4c6d-9e71-db7890e35b3f",
+                  "id": "97",
+                  "meta_info": {
+                     "favicon_url": "https://www.google.com/s2/favicons?domain=dazn.com",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/6c3dd7a37ba8ae459db0243f968ce7fad129c5e6.png",
+                     "imageDataType": "2",
+                     "imageID": "8B37123632119C9E37737221EBCEF370BFB87A1B373826F7DD88213129187020",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.695471448795322e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "affinity_dazn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/6c3dd7a37ba8ae459db0243f968ce7fad129c5e6.png",
+                     "partner_url": "https://ww55.affinity.net/sssdomweb?enk=cf3f5cb96b7c4a245300cebd453cbbc622bd07ffdfa5272fb5f699f8cc05710581007ce2c4951366bd9f17ee369d09fc3691f48d014b73020d0aa054ea96d7fc63faff331efb79b58a76d20d31cd85a172ed5ce6024f258bef5591c7b44fac2ce0cbed53b882ee6297b1d2ba843ff0e3692a6078ee29c95da10fd3dee49b3e7cab713ffa49fe35e97c3c77071bee9f3dd3c0f0103845ca2c92acbc610c5251c87e006b1661f58fe6843f8735a5c6a9f3&ccd=de&stc=&cin=&mcd=&cic=&kw=qldummy&renk=97b04b7381c6f0d1c486a2cee6361f6736f25b901a95a89e1bd05608cccad88695be671e63bb25575ca71983e786eab145c886fb5f7184fc6845bb452e760f1eccb29f0f4209439401b0270b59034a5f0ce3e92c0ff59c3d5392d0f641ae193d",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/affinity_dazn",
+                     "replaceability": "0",
+                     "revision": "1",
+                     "server_position": "15"
+                  },
+                  "name": "DAZN",
+                  "type": "url",
+                  "url": "https://dazn.com/"
+               } ],
+               "date_added": "13311268001596349",
+               "date_last_used": "0",
+               "date_modified": "13341932248784677",
+               "guid": "59f47e01-0c76-42e0-9d57-056847c8810b",
+               "id": "10",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "3d4252c7-03b4-4d5d-a87c-5ab7075afe2b"
+               },
+               "name": "LAPTOP-J1K355OK",
+               "type": "folder"
+            } ],
+            "date_added": "13311268001077680",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13311268001077695",
+            "date_last_used": "0",
+            "date_modified": "13319055468743594",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "9",
+            "name": "Papierkorb",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13311268001077675",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Unsortierte Lesezeichen",
+            "type": "folder"
+         },
+         "unsyncedPinboard": {
+            "children": [ {
+               "date_added": "13341311015568966",
+               "date_last_used": "0",
+               "guid": "5bea2e28-c7c3-49d6-acac-c53ec7bdd0b2",
+               "id": "94",
+               "meta_info": {
+                  "userId": "44574931-4f57-42f4-b68b-eb2c76f46fa2",
+                  "userToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2IjoxLCJpZCI6IjQ0NTc0OTMxLTRmNTctNDJmNC1iNjhiLWViMmM3NmY0NmZhMiJ9.iPTjxrliJQXa0MMMxFC-Tu9wBtUsESzp4KuEfi8_C7U"
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://pinboard.opera.com/"
+            } ],
+            "date_added": "13311268001077693",
+            "date_last_used": "0",
+            "date_modified": "13341311015568966",
+            "guid": "00000000-0000-4000-a000-000000000908",
+            "id": "8",
+            "name": "Unsynchronized Pinboard",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13311268001077678",
+            "date_last_used": "0",
+            "date_modified": "13341310848824054",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Andere Lesezeichen",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13311268001077574",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Importierte Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13311268001077575",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

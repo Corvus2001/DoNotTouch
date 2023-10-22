@@ -1,0 +1,6 @@
+2023/05/03-11:17:42.286 2e2c Creating DB C:\Users\advan\AppData\Roaming\Opera Software\Opera Stable\IndexedDB\https_www.spotify.com_0.indexeddb.leveldb since it was missing.
+2023/05/03-11:17:42.292 2e2c Reusing MANIFEST C:\Users\advan\AppData\Roaming\Opera Software\Opera Stable\IndexedDB\https_www.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/03-11:17:46.827 684 Level-0 table #5: started
+2023/05/03-11:17:46.833 684 Level-0 table #5: 1317 bytes OK
+2023/05/03-11:17:46.833 684 Delete type=0 #3
+2023/05/03-11:17:46.833 684 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

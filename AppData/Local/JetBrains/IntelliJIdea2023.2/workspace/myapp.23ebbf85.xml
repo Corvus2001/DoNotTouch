@@ -1,0 +1,250 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="$PROJECT_DIR$/myapp" />
+              <option name="systemId" value="GRADLE" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/myapp/app/build.gradle" value="2935365807" />
+                      <entry key="$PROJECT_DIR$/myapp/gradle/wrapper/gradle-wrapper.properties" value="2573656729" />
+                      <entry key="$PROJECT_DIR$/myapp/settings.gradle" value="313173430" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/myapp" value="C:\Users\advan\.gradle\wrapper\dists\gradle-8.3-bin\dxjbbhstwasg8cbags9q7cvli\gradle-8.3" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/myapp" value="8.3" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="myapp" />
+              <option name="path" value="$PROJECT_DIR$/myapp" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="myapp" />
+                <option name="path" value="$PROJECT_DIR$/myapp" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/myapp/app" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$/myapp">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/myapp">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/myapp" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/myapp/app">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/myapp/app" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="myapp" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/ant-1.10.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/ant-antlr-1.10.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/ant-junit-1.10.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/ant-launcher-1.10.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-api-metadata-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-base-annotations-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-base-services-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-base-services-groovy-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-bootstrap-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-cache-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-cache-base-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-cache-packaging-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-events-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-operations-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-build-option-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-cli-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-core-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-core-api-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-enterprise-logging-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-enterprise-operations-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-enterprise-workers-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-execution-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-file-collections-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-file-temp-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-file-watching-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-files-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-functional-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-hashing-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-installation-beacon-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-instrumentation-declarations-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-internal-instrumentation-api-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-jvm-services-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-kotlin-dsl-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-kotlin-dsl-tooling-models-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-launcher-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-logging-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-logging-api-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-messaging-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-model-core-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-model-groovy-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-normalization-java-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-persistent-cache-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-problems-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-process-services-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-resources-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-runtime-api-info-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-snapshots-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-tooling-api-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-worker-processes-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-worker-services-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/gradle-wrapper-shared-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-ant-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-astbuilder-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-console-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-datetime-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-dateutil-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-json-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-nio-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-sql-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-swing-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-templates-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-test-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/groovy-xml-3.0.17.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-antlr-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-build-cache-http-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-build-init-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-build-profile-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-code-quality-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-composite-builds-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-configuration-cache-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-dependency-management-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-diagnostics-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-ear-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-enterprise-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-ide-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-ide-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-ivy-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-jacoco-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-java-compiler-plugin-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-kotlin-dsl-provider-plugins-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-kotlin-dsl-tooling-builders-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-language-groovy-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-language-java-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-language-jvm-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-language-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-maven-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-platform-base-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-platform-jvm-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-platform-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-plugin-development-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-plugin-use-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-plugins-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-publish-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-reporting-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-resources-gcs-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-resources-http-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-resources-s3-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-resources-sftp-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-scala-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-security-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-signing-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-test-kit-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-testing-base-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-testing-junit-platform-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-testing-jvm-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-testing-jvm-infrastructure-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-testing-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-tooling-api-builders-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-tooling-native-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-version-control-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-war-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-workers-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/gradle-wrapper-8.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/myapp" value="IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="fbaf993a78d8f321aa8b98de572cbd35" value="1697470736538" />
+    </timestamps>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="536" />
+  </component>
+  <component name="sourceFolderManager">
+    <sourceFolders>
+      <SourceFolderModelState>
+        <option name="moduleName" value="myapp.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/myapp/app/src/main/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="myapp.app.test" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/myapp/app/src/test/resources" />
+      </SourceFolderModelState>
+    </sourceFolders>
+  </component>
+</project>
